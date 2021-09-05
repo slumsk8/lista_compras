@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: 2px solid #000;
+    text-transform: uppercase;
+    text-align: center;    
+    width: 860px;
+}
+tr{
+    background-color: rgb(216, 219, 168);
+}
+th{
+    background-color: rgb(147, 151, 93);
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: rgb(41, 105, 156);
+}

@@ -1,0 +1,23 @@
+{
+  "name": "listacompras",
+  "version": "1.0.0",
+  "description": "app lista de compras e estoque",
+  "main": "index.js",
+  "dependencies": {
+    "follow-redirects": "^1.14.3",
+    "mysql2": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slumsk8/lista_compras.git"
+  },
+  "author": "Tiago Aragao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slumsk8/lista_compras/issues"
+  },
+  "homepage": "https://github.com/slumsk8/lista_compras#readme"
+}
